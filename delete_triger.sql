@@ -8,6 +8,6 @@ select GETDATE(), USER,
         'guest on kasutatud'
 from deleted
 --control
-delete from guest where guest_id = 2;
+delete from guest where guest_id = 1;
 select * from guest;
 select * from logi;
