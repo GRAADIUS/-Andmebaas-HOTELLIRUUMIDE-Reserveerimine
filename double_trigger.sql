@@ -1,0 +1,1 @@
+-----------------Kasutasin kahte lauda, Guest ja Reservated-----------------------------
